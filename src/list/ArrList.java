@@ -7,7 +7,7 @@ public class ArrList {
 
 	public static void main(String[] args) {
 		
-		List<Employee> empList = new ArrayList<>();
+		ArrayList<Employee> empList = new ArrayList<>();
 		
 		empList.add(new Employee("Sanjay", "Krishnan", 101));
 		empList.add(new Employee("Ravi", "m", 101));
