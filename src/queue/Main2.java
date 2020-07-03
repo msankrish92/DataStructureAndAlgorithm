@@ -2,9 +2,6 @@ package queue;
 
 public class Main2 {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		Employee em1 = new Employee("Sanjay", "Krishnan", 101);
 		Employee em2 = new Employee("Ravi", "m", 102);
